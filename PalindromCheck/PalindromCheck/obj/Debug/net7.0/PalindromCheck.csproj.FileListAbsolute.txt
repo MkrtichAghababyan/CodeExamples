@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\bin\Debug\net7.0\PalindromCheck.exe
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\bin\Debug\net7.0\PalindromCheck.deps.json
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\bin\Debug\net7.0\PalindromCheck.runtimeconfig.json
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\bin\Debug\net7.0\PalindromCheck.dll
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\bin\Debug\net7.0\PalindromCheck.pdb
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.AssemblyInfo.cs
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.dll
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\refint\PalindromCheck.dll
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.pdb
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\PalindromCheck.genruntimeconfig.cache
+C:\Users\user\source\repos\PalindromCheck\PalindromCheck\obj\Debug\net7.0\ref\PalindromCheck.dll
