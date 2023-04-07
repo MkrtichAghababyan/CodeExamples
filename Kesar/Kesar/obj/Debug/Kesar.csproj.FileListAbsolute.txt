@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Kesar\Kesar\bin\Debug\Kesar.exe.config
+C:\Users\user\source\repos\Kesar\Kesar\bin\Debug\Kesar.exe
+C:\Users\user\source\repos\Kesar\Kesar\bin\Debug\Kesar.pdb
+C:\Users\user\source\repos\Kesar\Kesar\obj\Debug\Kesar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kesar\Kesar\obj\Debug\Kesar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Kesar\Kesar\obj\Debug\Kesar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kesar\Kesar\obj\Debug\Kesar.exe
+C:\Users\user\source\repos\Kesar\Kesar\obj\Debug\Kesar.pdb
