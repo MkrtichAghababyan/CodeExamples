@@ -13,9 +13,9 @@ namespace PalindromCheck
         {
             char[] s1 = new char[s.Length];
             int j = 0;
-            string s2 = "";
+            string s2;
             bool b = true;
-            BigInteger I = Fact(s.Length);
+           BigInteger I = Fact(s.Length);
             List<string> list = new List<string> { s };
             for (BigInteger i = 0; i < I; i++)
             {
